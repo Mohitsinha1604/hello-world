@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>I Love You</title>
+    <title>DUDDU and BUBOO</title>
 </head>
 <body>
     <h1>I <%= "&#10084;" %> You</h1>
